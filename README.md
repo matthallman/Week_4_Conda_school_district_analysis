@@ -14,12 +14,12 @@ The purpose of the analysis is to replace the 9th grade math and reading scores 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Top Five Ranking Before Replacement of THS 9th Grade Scores to NaN
 ![Top 5 Ranking Before](https://github.com/matthallman/Week_4_Conda_school_district_analysis/blob/main/resources/top_5_pre.png)
-- There is a significant drop in Thomas HS performance compare when the ninth grade students grades are excluded. 
+- There is a significant drop in Thomas HS performance compared to when the ninth grade students grades are excluded. 
 - Thomas HS moved from 2nd postion to 8th in the overall passing % ranking of schools. 
-- The % Overall Passing column values have changed from 90.95% to 65.08% for Thomas High School
-![THS overall rank](https://github.com/matthallman/Week_4_Conda_school_district_analysis/blob/main/resources/thomas_post_top5.png)
 - The % Passing Math column values have changed from 93.27% to 66.91% for Thomas High School
 - The % Passing Reading column values have changed from 97.31% to 69.66% for Thomas High School
+- The % Overall Passing column values have changed from 90.95% to 65.08% for Thomas High School
+![THS overall rank](https://github.com/matthallman/Week_4_Conda_school_district_analysis/blob/main/resources/thomas_post_top5.png)
  
 ### How does replacing the ninth-grade scores affect the following:
 - Scores by school spending
@@ -34,7 +34,7 @@ The purpose of the analysis is to replace the 9th grade math and reading scores 
    - % Overall Passing reduced from 91% to 85%
 - Scores by school type
   - Only the scores at Charter level were affected.
-   - %Passing Math reduced from 94% to 90%
+   - % Passing Math reduced from 94% to 90%
    - % Passing reading reduced from 97% to 93%
    - % Overall Passing reduced from 90% to 87%
 
