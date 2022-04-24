@@ -1,4 +1,4 @@
-# school district analysis
+# School District Analysis
 Data Resources: [schools_complete.csv](https://github.com/matthallman/Week_4_Conda_school_district_analysis/blob/main/resources/schools_complete.csv) & [students_complete.csv](https://github.com/matthallman/Week_4_Conda_school_district_analysis/blob/main/resources/students_complete.csv)
 ## Overview of the school district analysis: 
 The purpose of the analysis is to replace the 9th grade math and reading scores from Thomas High School with NaN's while keeping the rest of the data intact. Once the scores have been replaced the school district analysis needs to be repeated and a written report with the findings has been requested.
